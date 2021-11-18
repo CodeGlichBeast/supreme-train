@@ -1,0 +1,16 @@
+.name_of_objects{
+    background-color:blue;
+    color:black;
+}
+body{
+    background-color:violet;
+    color:honeydew;
+}
+#camera{
+border:2px dashed black ;
+width: 300px;
+height: 350px;
+}
+#object, #accuracy{
+color:teal;
+}
